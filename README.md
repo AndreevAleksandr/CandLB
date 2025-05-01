@@ -11,7 +11,7 @@
 
 [HAPROXY conf file](https://github.com/AndreevAleksandr/CandLB/tree/main/Conf_File "Конфигурационный файл HAPROXY")
 
-[Screen1](img/1.png)
+![Screen1](img/1.png)
 
 ```
 global
@@ -70,7 +70,7 @@ backend web_servers    # секция бэкенд
         server s1 127.0.0.1:7777 check
         server s2 127.0.0.1:8888 check
 ```
-[Screen2](img/2.png)		
+![Screen2](img/2.png)		
 
 # Задание 2
 ### Запустите три simple python сервера на своей виртуальной машине на разных портах
