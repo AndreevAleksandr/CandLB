@@ -11,8 +11,6 @@
 
 [HAPROXY conf file](https://github.com/AndreevAleksandr/CandLB/blob/main/Conf_File/haproxy1.cfg "Конфигурационный файл HAPROXY")
 
-![Screen1](img/1.png)
-
 ![Screen2](img/2.png)		
 
 # Задание 2
@@ -22,7 +20,5 @@
 ### На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy c использованием домена example.local и без него.
 
 [HAPROXY conf file 2](https://github.com/AndreevAleksandr/CandLB/tree/main/Conf_File "Конфигурационный файл HAPROXY_2")
-
-![Screen3](img/3.png)
 
 ![Screen4](img/4.png)
